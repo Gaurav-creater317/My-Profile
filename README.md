@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mehra</h1>
 <h3 align="center">A passionate student from India.</h3>
 
-<p><img align="left" src="Gaurav-creater317/1691989932071.gif" alt="gaurav-creater317" /></p>
+<img src = "1691989932071.gif>
 
 
 - 🌱 I’m currently learning **Java Script ,Reactjs, Html , Css & Java**
