@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mehra</h1>
 <h3 align="center">A passionate student from India.</h3>
-<img src = "Profile/1691989932071.gif">
+<img src = "C:\Users\Carl the Legend\Downloads\1691989932071.gif">
 
 - 🌱 I’m currently learning **Java Script ,Reactjs, Html , Css & Java**
 
