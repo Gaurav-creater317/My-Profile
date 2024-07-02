@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mehra</h1>
 <h3 align="center">A passionate student from India.</h3>
 
-<p align="left"> <img src=" "alt="gaurav-creater317" /> </p>
+<p align="left"> <img src="1691989932071.gif "alt="gaurav-creater317" /> </p>
 
 
 
