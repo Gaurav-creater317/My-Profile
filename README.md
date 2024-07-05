@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DS(Data Structures ) & OOPS(Object Oriented Programming)**
 
-- 📫 How to reach me **gauravhld11111@gmail.com**
+- 📫 Reach me at : email id  ->  **gauravmehra26337@gmail.com** , Whatsapp -> **7983680756**
 
 - ⚡ Fun fact **Curiosity Champion : I believe that curiosity is the key to learning and growth, and I'm always asking questions and seeking new knowledge.**
 
