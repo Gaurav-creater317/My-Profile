@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Script ,Reactjs, Html , Css & Java**
 
-- 💬 Ask me about **DS(Data Structures ) , OOPS(Object Oriented Programming) , Java Programming , Java Script (JS) , HTML & CSS concepts and their implementation in projects. 
+- 💬 Ask me about **DS(Data Structures ) , OOPS(Object Oriented Programming) , Java Programming , Java Script (JS) , HTML & CSS concepts and their implementation in projects.** 
 
 - 📫 Reach me at : email id  ->  **gauravmehra26337@gmail.com** , Whatsapp -> **7983680756**
 
